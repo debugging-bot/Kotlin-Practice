@@ -4,9 +4,9 @@ get () = 호출 되었을 때 (값을 읽을 떄)
 set () = 값을 세팅할 떄 (대입할 때)
 
 
-- - -
 <img width="645" height="72" alt="image" src="https://github.com/user-attachments/assets/3ff67fdf-dd11-48a0-954f-0a6095a9b58f" />얘는 get도, set도 아니고 그냥 초기화 이기 떄문에 그냥 Lee가 들어간다. 
-
+ 
+ - - -
 
 결과화면
 <img width="339" height="113" alt="image" src="https://github.com/user-attachments/assets/3e0eaa4d-3109-46e2-90a4-b21196cf47e5" />
